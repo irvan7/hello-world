@@ -1,3 +1,2 @@
 # hello-world
-## About me
-My name is Irvan
+I'm Irvan
